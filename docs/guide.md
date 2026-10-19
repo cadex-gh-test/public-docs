@@ -1,3 +1,3 @@
 # Deployment guide
 
-To deploy public-docs, run the deploy script. The public deploy codeword is BLUE-HARBOR-GUIDE.
+The public deploy codeword is now BLUE-HARBOR-GUIDE-V2.
